@@ -1,0 +1,3 @@
+Task 1: List the top 10 endpoints with failed SSH login attempts
+Task 2: Find the number of total SSH connections.
+Task 3: Count all event types (successful, failed, no-auth, multiple-failed) seen in the logs

@@ -1,0 +1,4 @@
+Task 1: Find the Top 10 Client IPs (id.orig_h)
+Task 2: List Most Common Services
+Task 3: Find Connections with Duration > 1 Second
+Task 4: Identify the Most Accessed Internal Servers
