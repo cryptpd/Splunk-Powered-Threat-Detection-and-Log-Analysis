@@ -1,0 +1,4 @@
+Task 1: Find the top 10 endpoints generating web traffic
+Task 2: Count the number of server errors (5xx) observed
+Task 3: Identify User-Agents associated with possible scripted attacks
+Task 4: Find large file transfers (greater than 500 KB)
