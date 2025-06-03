@@ -1,0 +1,3 @@
+Task 1: Identify the most frequently queried domain names
+Task 2: Find the most active user IPs generating DNS traffic
+Task 3: Breakdown of DNS query types (A, AAAA, CNAME, PTR)
